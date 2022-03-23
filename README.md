@@ -23,7 +23,7 @@ All contributions welcome!
 
 ## How to cite this work
 
-All contributions welcome!
+Oral, E., Acar, A., & Eryiğit, G. (2022). Abstract Meaning Representation of Turkish. Natural Language Engineering, 1-33. doi:coming
 
 ## Licence Information
 
