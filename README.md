@@ -16,6 +16,16 @@ the first Turkish AMR Corpus: [turkish-amr-corpus](https://github.com/amr-turkis
 the first Turkish AMR Parser: [turkish-amr-parser](https://github.com/amr-turkish/turkish-amr-parser)
 
 
+## About
+
+This guideline provides our Turkish AMR annotation schema. 
+In [turkish-amr.md](https://github.com/amr-turkish/turkish-amr-guidelines/blob/main/turkish-amr.md) Turkish samples and Turkish specific AMR constructions are provided.
+
+## Resources
+
+- For the explanation of the general AMR concepts, the reader is directed to the English AMR guidelines [amr-guidelines](https://github.com/amrisi/amr-guidelines/blob/master/amr.md)  by provided links.
+- Turkish AMR uses [Turkish Propbank](https://turkishpropbank.github.io/) for the predicates.
+
 
 ## Contributing
 
