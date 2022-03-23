@@ -1,4 +1,11 @@
 # turkish-amr-guidelines
+
+
+
+
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
+
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
