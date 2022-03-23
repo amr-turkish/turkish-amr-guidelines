@@ -15,6 +15,12 @@ the first Turkish AMR Corpus: [turkish-amr-corpus](https://github.com/amr-turkis
 the first Turkish AMR Parser: [turkish-amr-parser](https://github.com/amr-turkish/turkish-amr-parser)
 
 
+
+## Contributing
+
+All contributions welcome!
+
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
