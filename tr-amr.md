@@ -91,7 +91,7 @@ Part I. Introduction
 For the definition of this section, you may check the English AMR guideline [related section](https://github.com/amrisi/amr-guidelines/blob/master/amr.md#part-i-introduction).
 
 <p>
-  <img width="460" height="300" src="figures/example01.JPG"><br>
+  <img width="460" height="300" src="example.JPG"><br>
   AMR Graph for <i>"Oğlan kızın ona inanmasını istiyor." (The boy wants the girl to believe him.)</i>
 </p>
 
