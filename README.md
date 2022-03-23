@@ -10,9 +10,9 @@ This repository provides the resources introduced within the article:
 
 Other resources introduced within the same article may be found at the following GitHub repositories:
 
-the first Turkish AMR Corpus: [#turkish-amr-parser](https://github.com/amr-turkish/turkish-amr-corpus)
+the first Turkish AMR Corpus: [turkish-amr-corpus](https://github.com/amr-turkish/turkish-amr-corpus)
 
-the first [Turkish AMR Parser](https://github.com/amr-turkish/turkish-amr-parser)
+the first Turkish AMR Parser: [turkish-amr-parser](https://github.com/amr-turkish/turkish-amr-parser)
 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
