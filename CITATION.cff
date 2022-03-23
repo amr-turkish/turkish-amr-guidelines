@@ -1,32 +1,38 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+cff-version: 1.0
+message: "If you use this repo, please cite it as below."
 authors:
-- family-names: "Lisa"
-  given-names: "Mona"
+- family-names: "Oral"
+  given-names: "K. Elif"
   orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Bot"
-  given-names: "Hew"
+- family-names: "Acar"
+  given-names: "Ali"
   orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "My Research Software"
-version: 2.0.4
-doi: 10.5281/zenodo.1234
-date-released: 2017-12-18
-url: "https://github.com/github/linguist"
+- family-names: "Eryigit"
+  given-names: "Gulsen"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Abstract Meaning Representation of Turkish"
+version: -
+doi: -
+date-released: -
+url: "https://github.com/amr-turkish/turkish-amr-guidelines"
 preferred-citation:
   type: article
   authors:
-  - family-names: "Lisa"
-    given-names: "Mona"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  - family-names: "Bot"
-    given-names: "Hew"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  doi: "10.0000/00000"
-  journal: "Journal Title"
-  month: 9
-  start: 1 # First page number
-  end: 10 # Last page number
-  title: "My awesome research software"
-  issue: 1
-  volume: 1
-  year: 2021
+- family-names: "Oral"
+  given-names: "K. Elif"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Acar"
+  given-names: "Ali"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Eryigit"
+  given-names: "Gulsen"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "-"
+  journal: "Natural Language Engineering"
+  month: -
+  start: - # First page number
+  end: - # Last page number
+  title: "Abstract Meaning Representation of Turkish"
+  issue: -
+  volume: -
+  year: 2022
