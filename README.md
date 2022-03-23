@@ -20,6 +20,11 @@ the first Turkish AMR Parser: [turkish-amr-parser](https://github.com/amr-turkis
 
 All contributions welcome!
 
+## How to cite this work
+
+All contributions welcome!
+
+## Licence Information
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
