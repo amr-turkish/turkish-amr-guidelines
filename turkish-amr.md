@@ -3214,7 +3214,7 @@ In m-reduplication, m- part gives _something similar_ meaning:
    :ARG0 (b / biz)
    :ARG1 (a / and
       :op1 (k / kitap)
-      :op2 (t / thing
+      :op2 (ş / şey
             :ARG0-of (b2 / benze.01
                   :ARG1 k))))
 ```
