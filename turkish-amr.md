@@ -3204,7 +3204,7 @@ There are 3 kinds of reduplications in Turkish. Emphatic reduplication makes som
 >
 > Çok yalnız yaşıyorum.
 >
-> _very long car_
+> _I live all alone_
 
 
 In m-reduplication, m- part gives _something similar_ meaning:
