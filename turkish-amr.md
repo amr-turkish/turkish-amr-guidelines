@@ -2502,7 +2502,7 @@ One should note that these are instead postpositions in Turkish carrying the sam
 > _They arrived towards the morning._
 
 
-The words `gibi`, `böyle` and `şöyle` have multiple meanings. The should be mapped to proper AMR component according to their meanings in the context.
+The words `gibi`, `böyle` and `şöyle` have multiple meanings. They should be mapped to proper AMR component according to their meanings in the context.
 
 ```lisp
 (m / mümkün.01
