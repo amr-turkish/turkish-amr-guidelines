@@ -3228,7 +3228,8 @@ Doubling is another reduplication method in Turkish,
 ```lisp
 (y / yağ.00)
    :ARG0 (k / kar)
-   :manner (i / ince)
+   :manner (i / ince
+          :degree (ç / çok))
 ```
 
 > İnce ince bir kar yağıyordu.
