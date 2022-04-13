@@ -2702,7 +2702,7 @@ Turkish Clitics
 ---------------
 There are several clitics in Turkish, some of them are `dA`, `ki` etc. We annotate them with existing relations and concepts depending on the meaning which they add to a sentence.
 
-`dA` clitic may carry the additive meaning. It is similar to English counterparf of it, `too`,
+`dA` clitic may carry the additive meaning. It is similar to English counterpart of it, `too`,
 
 ```lisp
 (g / getir.01
